@@ -11,7 +11,7 @@ Top-selling product categories or sizes
 Geographical sales distribution
 Comparison of sales channels or fulfillment methods
 Analysis of cancelled, shipped, and delivered orders
-Insights into B2B sales and their characteristics
+Insights into B2B sales and their characteristics<BR>
 **Potential Next Steps:**<BR>
 Depending on the specific goals of the analysis, the project could be extended to include:
 Identifying and analyzing patterns or trends in the sales data
